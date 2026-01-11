@@ -1,1 +1,1 @@
-# lab5-agile-michailovAgile and Scrum practice
+# Agile and Scrum practice
